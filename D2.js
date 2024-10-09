@@ -159,5 +159,5 @@ console.log(numbers);
 */
 
 /* SCRIVI QUI LA TUA RISPOSTA */
-numbers.splice(0, 10, 100);
+numbers.splice(9, 1, 100);
 console.log(numbers);
